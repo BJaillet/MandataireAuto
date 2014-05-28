@@ -1,0 +1,37 @@
+<concessionnaire>
+
+	<raisonSociale>raisonSociale1</raisonSociale>
+	<adresse>adresse1</adresse>
+	<mail>email1@site.fr</mail>
+	<siren>siren1</siren>
+	<type>type1</type>
+	
+	<vehicule id="1">
+		<marque>marque1</marque>
+		<modele>modele1</modele>
+		<couleur>couleur1</couleur>
+		<nbPortes>1</nbPortes>
+		<nbPlaces>1</nbPlaces>
+		<options>option1</options>
+		<motorisation>motorisation1</motorisation>
+		<emissionCO2>1</emissionCO2>
+		<imageURL>image1</imageURL>
+		<prix>11111</prix>
+		<immatriculation>immatriculation1</immatriculation>
+	</vehicule>
+	
+	<vehicule id="2">
+		<marque>marque2</marque>
+		<modele>modele2</modele>
+		<couleur>couleur2</couleur>
+		<nbPortes>2</nbPortes>
+		<nbPlaces>2</nbPlaces>
+		<options>option2</options>
+		<motorisation>motorisation2</motorisation>
+		<emissionCO2>2</emissionCO2>
+		<imageURL>image2</imageURL>
+		<prix>22222</prix>
+		<immatriculation>immatriculation2</immatriculation>
+	</vehicule>
+
+</concessionnaire>
